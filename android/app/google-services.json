@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347051936854",
+    "project_id": "gopizza-projeto-unicarioca",
+    "storage_bucket": "gopizza-projeto-unicarioca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347051936854:android:1f5067c3a36448ac577ff7",
+        "android_client_info": {
+          "package_name": "com.gopizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347051936854-k5v725kvbg88msipv5aboj8khsva76pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQkw4Wm95a_QsPnVTZhN5u_i_Skmzpysw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347051936854-k5v725kvbg88msipv5aboj8khsva76pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
